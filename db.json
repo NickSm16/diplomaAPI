@@ -15,7 +15,7 @@
                      250,
                      60
                   ],
-                  "render":customNode,
+                  "render":"customNode",
                   "data":{
                      "ip":[
                         "127.0.0.1",
@@ -31,7 +31,7 @@
                      100,
                      200
                   ],
-                  "render":customNode,
+                  "render":"customNode",
                   "data":{
                      "ip":[
                         "127.0.0.1",
@@ -47,7 +47,7 @@
                      250,
                      220
                   ],
-                  "render":customNode,
+                  "render":"customNode",
                   "data":{
                      "ip":[
                         "76.18.35.13"
@@ -61,7 +61,7 @@
                      400,
                      200
                   ],
-                  "render":customNode,
+                  "render":"customNode",
                   "data":{
                      "ip":[
                         "127.0.0.1",
@@ -102,7 +102,7 @@
                      250,
                      60
                   ],
-                  "render":customNode,
+                  "render":"customNode",
                   "data":{
                      "ip":[
                         "127.0.0.1",
@@ -118,7 +118,7 @@
                      100,
                      200
                   ],
-                  "render":customNode,
+                  "render":"customNode",
                   "data":{
                      "ip":[
                         "127.0.0.1",
@@ -134,7 +134,7 @@
                      250,
                      220
                   ],
-                  "render":customNode,
+                  "render":"customNode",
                   "data":{
                      "ip":[
                         "76.18.35.13"
@@ -148,7 +148,7 @@
                      400,
                      200
                   ],
-                  "render":customNode,
+                  "render":"customNode",
                   "data":{
                      "ip":[
                         "127.0.0.1",
