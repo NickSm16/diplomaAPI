@@ -1,22 +1,16 @@
 [
    {
-      "_id":{
-         "$oid":"604c71f6e42659a9435a2d79"
-      },
+      "id":"604c71f6e42659a9435a2d79",
       "title":"test",
       "description":"testtesttest",
-      "author_id":{
-         "$oid":"604b1a678ca3d857a69d4ab0"
-      }
+      "img":"/1.jpg",
+      "isRunning":false
    },
    {
-      "_id":{
-         "$oid":"604c7240cf1d0274fbf105be"
-      },
+      "id":"604c7240cf1d0274fbf105be",
       "title":"LR-1",
       "description":"mysuperLR",
-      "author_id":{
-         "$oid":"604b1a678ca3d857a69d4ab0"
-      }
+      "img":"/1.jpg",
+      "isRunning":false
    }
 ]
