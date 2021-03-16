@@ -1,16 +1,19 @@
-[
-   {
-      "id":"604c71f6e42659a9435a2d79",
-      "title":"test",
-      "description":"testtesttest",
-      "img":"/1.jpg",
-      "isRunning":false
-   },
-   {
-      "id":"604c7240cf1d0274fbf105be",
-      "title":"LR-1",
-      "description":"mysuperLR",
-      "img":"/1.jpg",
-      "isRunning":false
-   }
-]
+{
+   "diagrams":[
+      {
+         "id":"604c71f6e42659a9435a2d79",
+         "title":"test",
+         "description":"testtesttest",
+         "img":"/1.jpg",
+         "isRunning":false
+      },
+      {
+         "id":"604c7240cf1d0274fbf105be",
+         "title":"LR-1",
+         "description":"mysuperLR",
+         "img":"/1.jpg",
+         "isRunning":false
+      }
+   ]
+}
+
