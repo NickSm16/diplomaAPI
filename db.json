@@ -5,15 +5,174 @@
          "title":"test",
          "description":"testtesttest",
          "img":"/1.jpg",
-         "isRunning":false
+         "isRunning":false,
+         "schema":{
+            "nodes":[
+               {
+                  "id":"node-1",
+                  "content":"Node 1",
+                  "coordinates":[
+                     250,
+                     60
+                  ],
+                  "render":"customNode",
+                  "data":{
+                     "ip":[
+                        "127.0.0.1",
+                        "192.168.25.31",
+                        "76.18.35.13"
+                     ]
+                  }
+               },
+               {
+                  "id":"node-2",
+                  "content":"Node 2",
+                  "coordinates":[
+                     100,
+                     200
+                  ],
+                  "render":"customNode",
+                  "data":{
+                     "ip":[
+                        "127.0.0.1",
+                        "192.168.25.31",
+                        "76.18.35.13"
+                     ]
+                  }
+               },
+               {
+                  "id":"node-3",
+                  "content":"Node 3",
+                  "coordinates":[
+                     250,
+                     220
+                  ],
+                  "render":"customNode",
+                  "data":{
+                     "ip":[
+                        "76.18.35.13"
+                     ]
+                  }
+               },
+               {
+                  "id":"node-4",
+                  "content":"Node 4",
+                  "coordinates":[
+                     400,
+                     200
+                  ],
+                  "render":"customNode",
+                  "data":{
+                     "ip":[
+                        "127.0.0.1",
+                        "192.168.25.31",
+                        "76.18.35.13"
+                     ]
+                  }
+               }
+            ],
+            "links":[
+               {
+                  "input":"node-1",
+                  "output":"node-2"
+               },
+               {
+                  "input":"node-1",
+                  "output":"node-3"
+               },
+               {
+                  "input":"node-1",
+                  "output":"node-4"
+               }
+            ]
+         }
       },
       {
          "id":"604c7240cf1d0274fbf105be",
          "title":"LR-1",
          "description":"mysuperLR",
          "img":"/1.jpg",
-         "isRunning":false
+         "isRunning":false,
+         "schema":{
+            "nodes":[
+               {
+                  "id":"node-1",
+                  "content":"Node 1",
+                  "coordinates":[
+                     250,
+                     60
+                  ],
+                  "render":"customNode",
+                  "data":{
+                     "ip":[
+                        "127.0.0.1",
+                        "192.168.25.31",
+                        "76.18.35.13"
+                     ]
+                  }
+               },
+               {
+                  "id":"node-2",
+                  "content":"Node 2",
+                  "coordinates":[
+                     100,
+                     200
+                  ],
+                  "render":"customNode",
+                  "data":{
+                     "ip":[
+                        "127.0.0.1",
+                        "192.168.25.31",
+                        "76.18.35.13"
+                     ]
+                  }
+               },
+               {
+                  "id":"node-3",
+                  "content":"Node 3",
+                  "coordinates":[
+                     250,
+                     220
+                  ],
+                  "render":"customNode",
+                  "data":{
+                     "ip":[
+                        "76.18.35.13"
+                     ]
+                  }
+               },
+               {
+                  "id":"node-4",
+                  "content":"Node 4",
+                  "coordinates":[
+                     400,
+                     200
+                  ],
+                  "render":"customNode",
+                  "data":{
+                     "ip":[
+                        "127.0.0.1",
+                        "192.168.25.31",
+                        "76.18.35.13"
+                     ]
+                  }
+               }
+            ],
+            "links":[
+               {
+                  "input":"node-1",
+                  "output":"node-2"
+               },
+               {
+                  "input":"node-1",
+                  "output":"node-3"
+               },
+               {
+                  "input":"node-1",
+                  "output":"node-4"
+               }
+            ]
+         }
       }
    ]
 }
-
